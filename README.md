@@ -2,5 +2,6 @@
 
 + [PROJECT MINGGU PERTAMA TGL 7 SEPT 2018](https://github.com/AnnisaFahma/tct/tree/master/m-01)
 
-Coba Gambar: 
+Coba Gambar pertama: 
+
 ![EunWoo](https://github.com/AnnisaFahma/tct/blob/master/images/eunwoo.jpg)
