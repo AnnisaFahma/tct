@@ -68,12 +68,14 @@ keuangan dan sumber daya manusia—mulai difasilitasi dengan teknologi berbasis 
 dalam sebuah daftar startup Indonesia di bidang SaaS.
 
 + AkuntansiOnline
+
 Sesuai namanya, layanan ini menawarkan sistem akuntansi virtual yang dapat diakses melalui aplikasi online. Startup yang digagas bersama 
 PT Zahir Internasional ini tidak hanya menyediakan aplikasi perhitungan semata, namun di dalam layanannya juga disematkan dukungan konsultasi 
 pendampingan. Tepatnya ada tiga bidang pekerjaan yang coba difasilitasi AkuntansiOnline. Pertama berkaitan dengan pembuatan SOP bisnis dan sistem
  akuntansi perkantoran. Kedua berkaitan dengan konsultasi bisnis. Dan yang ketiga berkaitan dengan jasa pembuatan laporan keuangan.
  
 + Amplifia
+
 Startup ini menyajikan sebuah platform employee advocacy yang mencoba percaya bahwa suara karyawan sebuah perusahaan dapat menjadi alternatif 
 periklanan yang lebih efisien. Hal ini didasari dengan tren –khususnya di wilayah Amerika Serikat—bahwa employee advocacy sudah menjadi model 
 baru dari marketing automation. Advocacy marketing sebenarnya punya kekuatan yang mampu memperkuat brand melalui media sosial. Sistem Amplifia 
@@ -115,7 +117,7 @@ Mempublikasikan
 
 Untuk besarnya dokumen yang dapat kita kerjakan dalam Google Docs adalah :
 
-   _Dokumen_
+_Dokumen_
    
 + Setiap dokumen dapat mencapai sebesar 500K, ditambah 2MB per gambar yang dimasukkan.
 + Dapat meng-upload dokumen dengan format file berikut :
@@ -126,7 +128,7 @@ Untuk besarnya dokumen yang dapat kita kerjakan dalam Google Docs adalah :
 		* Open Office (.odt)
 + Setiap pengguna memiliki batas kombinasi 5000 dokumen dan presentasi serta 5000 gambar.
 
-   _Spreadsheet_
+_Spreadsheet_
    
 + Setiap spreadsheet dapat mencapai hingga 10,000 baris, atau hingga 256 kolom, atau hingga 100,000 sel, atau hingga 40 sheet — batas mana saja
   yang tercapai lebih dulu.
@@ -134,7 +136,7 @@ Untuk besarnya dokumen yang dapat kita kerjakan dalam Google Docs adalah :
 +Batas untuk spreadsheet terbuka pada saat bersamaan adalah 11.
 + Dapat mengimpor spreadsheet hingga mencapai 1 MB dalam format xls, csv, atau ods, txt, tsv, tsb.
 
-    _Presentasi_
+_Presentasi_
 	
 + Setiap presentasi dapat mencapai sebesar 500K, ditambah 2MB per gambar yang dimasukkan.
 + Kita dapat meng-upload presentasi dalam format .ppt maupun .pps.
