@@ -120,12 +120,13 @@ Untuk besarnya dokumen yang dapat kita kerjakan dalam Google Docs adalah :
 _Dokumen_
    
 + Setiap dokumen dapat mencapai sebesar 500K, ditambah 2MB per gambar yang dimasukkan.
-+ Dapat meng-upload dokumen dengan format file berikut :
-		+ HTML
-		+ Teks biasa (.txt)
-		+ Microsoft Word(.doc)
-		+ .rtf
-		+ Open Office (.odt)
++ Dapat meng-upload dokumen dengan format file berikut:
+
+	+ HTML
+	+ Teks biasa (.txt)
+	+ Microsoft Word(.doc)
+	+ .rtf
+	+ Open Office (.odt)
 + Setiap pengguna memiliki batas kombinasi 5000 dokumen dan presentasi serta 5000 gambar.
 
 _Spreadsheet_
