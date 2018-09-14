@@ -7,13 +7,13 @@ akuisisi pengguna. Lalu Diede van Lamoen, kepala marketing di Stripe, perusahaan
 atau bisnis untuk melakukan pembayaran melalui internet. Dan terakhir Brad Paterson, selaku VP dan Direktur dari Intuit, penyedia perangkat lunak 
 untuk mengelola pajak dan keuangan pribadi.
 
-## + Buat produk yang disukai pengguna
++ Buat produk yang disukai pengguna
 Pertama adalah fokus mengembangkan produk yang bagus dan disukai pengguna, karena ini adalah pilar utama dari sebuah SaaS.
 Brad dari Intuit menekankan bahwa kamu yang ingin terjun di dunia SaaS bisa memulai dengan membuat layanan yang memiliki sebuah fitur utama. 
 Karena apabila kamu mengembangkan sebuah layanan SaaS yang memiliki begitu banyak fitur. Perusahaan-perusahaan besar seperti Intuit sebenarnya 
 sudah melakukan hal yang sama. Jadi, dengan membuat produk yang sangat spesifik, produk buatanmu akan menjadi pilihan dan disukai oleh pengguna.
 
-## + Layanan konsumen
++ Layanan konsumen
 Yuen menceritakan bagaimana ia sempat secara tidak sengaja menghapus semua datanya di Google Drive, layanan penyimpanan awal dari Google. 
 Ia kemudian menghubungi layanan konsumen Google. Hanya dalam waktu satu jam, pihak Google mengembalikan semua data-data yang telah terhapus 
 dalam periode 24 jam sebelumnya. Kejadian itulah yang membuat layanan konsumen menjadi hal kedua yang diperlukan oleh startup SaaS. Di samping itu, 
@@ -22,13 +22,13 @@ naik daun dan banyak digunakan oleh developer-developer di perusahaan teknologi.
 menjadi pemimpin karena mengembangkan produk yang disukai pengguna. Caranya adalah dengan iterasi pengembangan produk secara berulang-ulang berdasarkan 
 masukan dari pengguna, sehingga mereka dapat membuat fitur-fitur yang sesuai dengan kebutuhan pengguna.
 
-## + Tip memonetisasi layanan
++ Tip memonetisasi layanan
 Hal ketiga yang diperlukan startup SaaS adalah menjaring pendapatan. Bagian ini sedikit kontroversi, karena Diede menjelaskan sempat mengenakan tarif 
 yang terlalu tinggi pada masa awal pengembangan Stripe. Bahkan lebih tinggi dari kompetitor-kompetitor mereka yang sudah hadir lebih dahulu. 
 Walau demikian tetap saja ada pengguna yang mau membayar dengan tarif tinggi.Lain halnya dengan Brad dan Yuen yang menyarankan agar startup mengenakan 
 tarif serendah mungkin pada tahap awal. Kemudian ditingkatkan, seiring berkembangnya fitur-fitur dari produk yang ditawarkan.
 
-
+## Software as a Service, Solusi pada bisnis
 Aplikasi SaaS umumnya dibangun untuk tujuan tertentu, yang dibuat dan dikembangkan oleh perusahaan spesialis, 
 dan sebagian besar perusahaan ini baru lahir dalam periode 3 tahun terakhir. Hal ini mengindikasikan bahwa perusahaan-perusahaan 
 tersebut belum memiliki aliran pendapatan pokok yang dialokasikan untuk  trial  dan maintain (meminta vendor besar yang mereka inginkan,
@@ -57,6 +57,7 @@ pendukung menjadi pendongkrak utama.
 + Faktor kedua ialah dari sudut pandang pengembang, fleksibilitas layanan komputasi awan sangat mendukung
  penguatan berbagai unsur teknis.
 
+## Contoh-contoh Startup diIndonesia dalam bidang SaaS
 Di Indonesia, startup digital yang mengembangkan produk berjenis SaaS tidak sedikit. Beragam kebutuhan –khususnya berkaitan dengan pengelolaan 
 keuangan dan sumber daya manusia—mulai difasilitasi dengan teknologi berbasis aplikasi. DailySocial mencoba merangkum startup-startup tersebut 
 dalam sebuah daftar startup Indonesia di bidang SaaS.
