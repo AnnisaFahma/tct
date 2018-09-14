@@ -100,20 +100,20 @@ Dalam menggunakan dokumen, yang dapat dilakukan:
 + Email dokumen sebagai lampiran.
 
 Dalam menggunakan perangkat lunak spreadsheet, yang dapat dilakukan:
-Mengimpor dan mengekspor data berformat .xls, .csv, .txt dan .ods (dan mengekspor fungsionalitas untuk .pdf dan html).
-Menikmati navigasi dan pengeditan intuitif, seperti dokumen atau spreadsheet tradisional.
-Menggunakan format dan formula pengeditan pada. 
-Mengobrol dengan orang lain yang sedang mengedit.
-Memasukkan spreadsheet, atau bagian dari spreadsheet, ke blog atau situs web kita.
++ Mengimpor dan mengekspor data berformat .xls, .csv, .txt dan .ods (dan mengekspor fungsionalitas untuk .pdf dan html).
++ Menikmati navigasi dan pengeditan intuitif, seperti dokumen atau spreadsheet tradisional.
++ Menggunakan format dan formula pengeditan pada. 
++ Mengobrol dengan orang lain yang sedang mengedit.
++ Memasukkan spreadsheet, atau bagian dari spreadsheet, ke blog atau situs web kita.
 
 Dalam menggunakan perangkat lunak presentasi, yang dapat dilakukan:
-Mengimpor presentasi yang ada dalam jenis file ppt dan .pps.
-Mengekspor presentasi kita menggunakan fitur Simpan sebagai Zip dari menu File.
-Mengedit presentasi kita menggunakan editor WYSIWYG yang sederhana.
-Menyisipkan gambar, dan memformat slide kita agar sesuai dengan keinginan kita.
-Berbagi-pakai dan mengedit presentasi bersama teman dan rekan kerja.
-Mengizinkan melihat presentasi pada waktu-nyata, online, dari lokasi jauh yang terpisah.
-Mempublikasikan 
++ Mengimpor presentasi yang ada dalam jenis file ppt dan .pps.
++ Mengekspor presentasi kita menggunakan fitur Simpan sebagai Zip dari menu File.
++ Mengedit presentasi kita menggunakan editor WYSIWYG yang sederhana.
++ Menyisipkan gambar, dan memformat slide kita agar sesuai dengan keinginan kita.
++ Berbagi-pakai dan mengedit presentasi bersama teman dan rekan kerja.
++ Mengizinkan melihat presentasi pada waktu-nyata, online, dari lokasi jauh yang terpisah.
++ Mempublikasikan 
 
 Untuk besarnya dokumen yang dapat kita kerjakan dalam Google Docs adalah :
 
@@ -121,11 +121,11 @@ _Dokumen_
    
 + Setiap dokumen dapat mencapai sebesar 500K, ditambah 2MB per gambar yang dimasukkan.
 + Dapat meng-upload dokumen dengan format file berikut :
-		* HTML
-		* Teks biasa (.txt)
-		* Microsoft Word(.doc)
-		* .rtf
-		* Open Office (.odt)
+		+ HTML
+		+ Teks biasa (.txt)
+		+ Microsoft Word(.doc)
+		+ .rtf
+		+ Open Office (.odt)
 + Setiap pengguna memiliki batas kombinasi 5000 dokumen dan presentasi serta 5000 gambar.
 
 _Spreadsheet_
