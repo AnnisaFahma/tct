@@ -117,7 +117,7 @@ Dalam menggunakan perangkat lunak presentasi, yang dapat dilakukan:
 
 Untuk besarnya dokumen yang dapat kita kerjakan dalam Google Docs adalah :
 
-_Dokumen_
+_*Dokumen*_
    
 + Setiap dokumen dapat mencapai sebesar 500K, ditambah 2MB per gambar yang dimasukkan.
 + Dapat meng-upload dokumen dengan format file berikut:
@@ -129,15 +129,15 @@ _Dokumen_
 	+ Open Office (.odt)
 + Setiap pengguna memiliki batas kombinasi 5000 dokumen dan presentasi serta 5000 gambar.
 
-_Spreadsheet_
+_*Spreadsheet*_
    
 + Setiap spreadsheet dapat mencapai hingga 10,000 baris, atau hingga 256 kolom, atau hingga 100,000 sel, atau hingga 40 sheet — batas mana saja
   yang tercapai lebih dulu.
 + Setiap pengguna memiliki batas hingga 200 spreadsheet.
-+Batas untuk spreadsheet terbuka pada saat bersamaan adalah 11.
++ Batas untuk spreadsheet terbuka pada saat bersamaan adalah 11.
 + Dapat mengimpor spreadsheet hingga mencapai 1 MB dalam format xls, csv, atau ods, txt, tsv, tsb.
 
-_Presentasi_
+_*Presentasi*_
 	
 + Setiap presentasi dapat mencapai sebesar 500K, ditambah 2MB per gambar yang dimasukkan.
 + Kita dapat meng-upload presentasi dalam format .ppt maupun .pps.
