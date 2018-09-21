@@ -21,7 +21,8 @@ telah didefinisikan oleh Forester, standar teknologi informasi pada cloud comput
 Platform (dikenal sebagai PaaS) dan Infrastruktur (dikenal dengan IaaS).
 
 
-*SaaS (Software as a Service)*
+_SaaS (Software as a Service)_
+
 Software as a Service adalah layanan software yang digunakan melalui internet. Sebenarnya hal ini bukan merupakan hal yang 
 asing dan sering kita gunakan (hanya mungkin kita belum tahu aja), contoh dari SaaS ini adalah google docs, facebook, 
 aplikasi CRM berbayar, dan lain-lain. Pengguna hanya perlu menggunakan aplikasi tersebut tanpa harus mengerti bagaimana data disimpan, 
@@ -136,4 +137,4 @@ _Alternatif Kedua_
 
 ![gambar intalasasi 2](https://github.com/AnnisaFahma/tct/blob/master/images/d18.jpg)
 
-*_Selamat, sudah mempunyai akun Dropbox dengan disk space 2 GB._* 
+### _Selamat, sudah mempunyai akun Dropbox dengan disk space 2 GB._ 
