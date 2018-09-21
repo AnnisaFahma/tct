@@ -20,8 +20,8 @@ cloud computing, standar teknologi informasi tersebut dapat kita dapatkan melalu
 telah didefinisikan oleh Forester, standar teknologi informasi pada cloud computing mencakup 3 segmen, yaitu aplikasi (dikenal sebagai SaaS), 
 Platform (dikenal sebagai PaaS) dan Infrastruktur (dikenal dengan IaaS).
 
-SaaS (Software as a Service)
 
+*SaaS (Software as a Service)*
 Software as a Service adalah layanan software yang digunakan melalui internet. Sebenarnya hal ini bukan merupakan hal yang 
 asing dan sering kita gunakan (hanya mungkin kita belum tahu aja), contoh dari SaaS ini adalah google docs, facebook, 
 aplikasi CRM berbayar, dan lain-lain. Pengguna hanya perlu menggunakan aplikasi tersebut tanpa harus mengerti bagaimana data disimpan, 
