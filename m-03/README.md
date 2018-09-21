@@ -1,6 +1,7 @@
 # Architecture Cloud Computing 
 
 Berikut ini adalah workflow dari aplikasi berbasis cloud computing :
+
 ![Workflow](https://github.com/AnnisaFahma/tct/blob/master/images/tct3.jpeg)
 
 ## Contoh dan Review dari salah satu Software as a Service  (SaaS)
@@ -19,7 +20,7 @@ cloud computing, standar teknologi informasi tersebut dapat kita dapatkan melalu
 telah didefinisikan oleh Forester, standar teknologi informasi pada cloud computing mencakup 3 segmen, yaitu aplikasi (dikenal sebagai SaaS), 
 Platform (dikenal sebagai PaaS) dan Infrastruktur (dikenal dengan IaaS).
 
-+ SaaS (Software as a Service)
+SaaS (Software as a Service)
 
 Software as a Service adalah layanan software yang digunakan melalui internet. Sebenarnya hal ini bukan merupakan hal yang 
 asing dan sering kita gunakan (hanya mungkin kita belum tahu aja), contoh dari SaaS ini adalah google docs, facebook, 
@@ -67,6 +68,7 @@ Syarat pertama untuk memulainya sobat harus memiliki akun terlebih dahulu.
 tersedia adalah Dropbox versi 2.0.6 ( 31,2 MB )
 
 ![gambar intalasasi 2](https://github.com/AnnisaFahma/tct/blob/master/images/d3.jpg)
+
 
 ### Cara Install Dropbox di PC atau Laptop
 
@@ -134,4 +136,4 @@ _Alternatif Kedua_
 
 ![gambar intalasasi 2](https://github.com/AnnisaFahma/tct/blob/master/images/d18.jpg)
 
-Selamat, sudah mempunyai akun Dropbox dengan disk space 2 GB. 
+*_Selamat, sudah mempunyai akun Dropbox dengan disk space 2 GB._* 
