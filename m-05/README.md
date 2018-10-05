@@ -17,15 +17,15 @@ Langkah -langkah kerja :
 
 + Ketikkan query dibawah ini, setelah masuk kedlam direktori _bin_ yang ada di direktori _Apache_
 		
-		'''
+		
 		httpd -k install
-		'''
+		
 		
 + setelah itu ketikkan ,
 
-		'''
+		
 		httpd -k start
-		'''
+		
 
 Jika sudah maka coba untuk membuka WebServer tersebut di Browser dengan mengetikkan _http://localhost_ , dan jika sudah masuk ke Apache 
 itu artinya Web Servernya (Apache)  siap digunakan
@@ -34,7 +34,7 @@ itu artinya Web Servernya (Apache)  siap digunakan
 
 Adapun querynya adalah sebagai berikut :
 
-            '''
+        
 			<!doctype html>
 			<html>
 			<head>
@@ -356,10 +356,10 @@ Adapun querynya adalah sebagai berikut :
 			</script>
 			</body>
 			</html>
-			'''
+		
 
 Jika sudah coba jalankan di localhost dengan url _http://localhost/index.html_  dan hasilnya seperti dibawah ini :
 
-![Hasil Run ](https://github.com/AnnisaFahma/tct/blob/master/images/d3.jpg)
+![Hasil Run ](https://github.com/AnnisaFahma/tct/blob/master/images/table.jpg)
 
 
