@@ -25,25 +25,33 @@ jika sudah maka sekarang saatnya untuk:
 1. Menentukan dimana kita akan menginstal express, disni saya menggunakan direktori C:\nodejs\ untuk meletakkan hasil instalasi express
 2. Memasukkan perintah instalan express dengan menggunakan 
 
-	 npm install -g express
+	npm install -g express
 
+	
 Jika proses instalasi selesai, Kemudian dilajutkan untuk menginstal express generator secara global dengan perintah :
 
-	 npm install -g express–generator
+	npm install -g express–generator
 
+	
 3. Membuat file project express baru dengan memasukkan perintah seeperti dibawah ini :
 
-	 express tct -e
-	 (project saya beri nama tct)
+
+	express tct -e
+	(project saya beri nama tct)
+	
 	
 4. Setelah selai maka langkah selanjutnya adalah menginsatal dependencies dengan memasukkan perintah:
 
-	 cd tct && npm install 
-	 (cd tct karena project saya namanya tct)
+
+	cd tct && npm install 
+	(cd tct karena project saya namanya tct)
+	
 	
 5. Mengaktifkan npm dengan sintak 
 
-	 npm start
+
+	npm start
+	
 	
 6. Setelah itu memastikan bahwa express telah terinstal yaitu dengan memasukkan alamn localhost:3000 di browser. Jika berhasil maka hasilnya akan seperti ini
 
