@@ -40,9 +40,10 @@ Sehingga tabel yang saya buat hasilnya seperti dibawah ini :
 Alasan saya memisahkan file-file tersebut adalah suapaya saya tidak bingung fungsi dari masing masing file tersebut,
 karena jika saya jadikan satu  saya masih bingung untuk memahami fungsi dari setiap perintah yang ada.
 
+
 Adapun file-file tersebut querynya adalah sebagai berikut :
 
-### + file server.js
+### A. file server.js
 
 		var express = require('express'),
 		app = express(),
@@ -59,7 +60,7 @@ Adapun file-file tersebut querynya adalah sebagai berikut :
 		app.listen(port);
 		console.log('Learn Node JS With Kiddy, RESTful API server started on: ' + port);
 		
-### + file conn.js
+### B. file conn.js
 		
 		var mysql = require('mysql');
 
@@ -76,7 +77,7 @@ Adapun file-file tersebut querynya adalah sebagai berikut :
 
 		module.exports = con;
 		
-### + file controller.js
+###  C. file controller.js
 
 		'use strict';
 
@@ -98,7 +99,7 @@ Adapun file-file tersebut querynya adalah sebagai berikut :
 		};
 
 		
-### + file res.js
+###  D.  file res.js
 
 		'use strict';
 
@@ -111,7 +112,7 @@ Adapun file-file tersebut querynya adalah sebagai berikut :
 		res.end();
 		};
 
-### + file routes.js
+###  E. file routes.js
 
 		'use strict';
 
@@ -125,7 +126,7 @@ Adapun file-file tersebut querynya adalah sebagai berikut :
 				.get(todoList.users);
 		};
 
-Sekarang waktunya kita coba dengan menggunakan query dibawah ini pada Cpmmand Line, yang sebelumnya telah masuk di Folder tempat kita menyimpan file _sever.js_
+==> Sekarang waktunya kita coba dengan menggunakan query dibawah ini pada Cpmmand Line, yang sebelumnya telah masuk di Folder tempat kita menyimpan file _sever.js_
 
 		node server.js
 		
@@ -133,7 +134,7 @@ Jika hasilnya seperti dibawah ini, itu artinya sudah berhasil :
 
 ![hasilcmd](https://github.com/AnnisaFahma/tct/blob/master/images/konek1.jpg)
 
-Sekarang coba kita buka browser dan ketikkan :
+==> Sekarang coba kita buka browser dan ketikkan :
 
 		localhost:3000
 		
@@ -141,7 +142,7 @@ Jika hasilnya seperti dibawah ini, itu artinya sudah berhasil :
 
 ![hasilcmd](https://github.com/AnnisaFahma/tct/blob/master/images/konek2.jpg)
 
-Dilanjutkan dengan mengetikkan :
+==> Dilanjutkan dengan mengetikkan :
 
 		localhost:3000/users
 		(untuk menampilkan respon json yang iainya adalah data dari tabel yang sudah saya buat)
@@ -150,8 +151,7 @@ Jika hasilnya seperti dibawah ini, itu artinya sudah berhasil :
 
 ![hasilcmd](https://github.com/AnnisaFahma/tct/blob/master/images/konek3.jpg)
 
-Yang ditampilkan hanya satu Field saja idkarenakan tadi yang saya panggil hanya mahasiswa dengan id = 001
+(Yang ditampilkan hanya satu Field saja dikarenakan tadi yang saya panggil hanya mahasiswa dengan id = 001)
 
 _SEKIAN PRAKTIK HARI INI :)_
 
-### 5. 
